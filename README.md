@@ -5,8 +5,8 @@
 
 > spikes usually line up with project sprints and hackathons
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jay-Thpr&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Thpr&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jay-Thpr&theme=github_dark" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jay-Thpr&theme=github_dark" alt="Top Languages" />
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jay-Thpr&theme=github-compact&hide_border=true&area=true)
 
