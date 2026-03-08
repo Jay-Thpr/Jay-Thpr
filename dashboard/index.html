@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Jay Thapar · GitHub Activity Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&display=swap"
+  />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+<div class="shell">
+
+  <!-- ── header ──────────────────────────────────────────────────────────── -->
+  <header class="header">
+    <div class="header-title">
+      <h1>Jay Thapar</h1>
+      <p>UCLA · Computer Science &amp; Engineering</p>
+      <span class="badge">github activity dashboard</span>
+    </div>
+    <a class="back-link" href="https://github.com/Jay-Thpr" target="_blank" rel="noopener">
+      ← github profile
+    </a>
+  </header>
+
+  <!-- ── stat tiles ──────────────────────────────────────────────────────── -->
+  <p class="section-label">overview</p>
+  <div class="tiles">
+    <div class="tile">
+      <div class="tile-label">public repos</div>
+      <div class="tile-value" id="stat-repos">…</div>
+    </div>
+    <div class="tile">
+      <div class="tile-label">total stars</div>
+      <div class="tile-value" id="stat-stars">…</div>
+    </div>
+    <div class="tile">
+      <div class="tile-label">commits (active repo)</div>
+      <div class="tile-value" id="stat-commits">…</div>
+      <div class="tile-sub">last 52 weeks</div>
+    </div>
+    <div class="tile">
+      <div class="tile-label">followers</div>
+      <div class="tile-value" id="stat-followers">…</div>
+    </div>
+    <div class="tile">
+      <div class="tile-label">following</div>
+      <div class="tile-value" id="stat-following">…</div>
+    </div>
+  </div>
+
+  <!-- ── charts row 1 ────────────────────────────────────────────────────── -->
+  <p class="section-label">language usage</p>
+  <div class="charts">
+    <div class="chart-card">
+      <h3>languages across repos</h3>
+      <canvas id="lang-chart" height="220"></canvas>
+    </div>
+    <div class="chart-card">
+      <h3>repo push activity · last 18 months</h3>
+      <canvas id="activity-chart" height="220"></canvas>
+    </div>
+  </div>
+
+  <!-- ── charts row 2 ────────────────────────────────────────────────────── -->
+  <p class="section-label">commit frequency</p>
+  <div class="charts">
+    <div class="chart-card wide">
+      <h3>commits per week · last 52 weeks (most active repo)</h3>
+      <canvas id="commit-chart" height="160"></canvas>
+    </div>
+  </div>
+
+  <!-- ── top repos chart ─────────────────────────────────────────────────── -->
+  <p class="section-label">top repositories</p>
+  <div class="charts">
+    <div class="chart-card wide">
+      <h3>stars &amp; forks by repository</h3>
+      <canvas id="repos-chart" height="200"></canvas>
+    </div>
+  </div>
+
+  <!-- ── repo table ──────────────────────────────────────────────────────── -->
+  <p class="section-label">all public repositories</p>
+  <div class="repos-section" id="repos-section-inner">
+    <table class="repo-table">
+      <thead>
+        <tr>
+          <th>name</th>
+          <th>description</th>
+          <th>language</th>
+          <th>stars</th>
+        </tr>
+      </thead>
+      <tbody id="repo-table-body">
+        <tr>
+          <td colspan="4">
+            <div class="loading">
+              <div class="spinner"></div> loading repositories…
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- ── footer ──────────────────────────────────────────────────────────── -->
+  <footer class="footer">
+    <span>data fetched live from the GitHub public API · unauthenticated</span>
+    <span>
+      <a href="https://github.com/Jay-Thpr/Jay-Thpr" target="_blank" rel="noopener">source</a>
+      &nbsp;·&nbsp;
+      <a href="https://github.com/Jay-Thpr" target="_blank" rel="noopener">@Jay-Thpr</a>
+    </span>
+  </footer>
+
+</div><!-- /shell -->
+
+<!-- Chart.js CDN (no npm build step required) -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
