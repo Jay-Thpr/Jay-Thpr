@@ -9,7 +9,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Jay-Thpr&theme=github-dark-blue&hide_border=true)
 
-### [Open Interactive Dashboard](https://jay-thpr.github.io/Jay-Thpr/dashboard/)
+<!-- TODO: add the interactive dashboard link back once GitHub Pages is deployed properly. -->
 
 ### Featured Projects
 
