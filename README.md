@@ -6,8 +6,7 @@
 > spikes usually line up with project sprints and hackathons
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jay-Thpr&theme=github_dark" alt="GitHub Stats" />
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Jay-Thpr&theme=github-dark-blue&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jay-Thpr&theme=github_dark" alt="GitHub Profile Details" />
 
 <!-- TODO: add the interactive dashboard link back once GitHub Pages is deployed properly. -->
 
