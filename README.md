@@ -16,8 +16,8 @@
 <br />
 AI-powered lawn scanning app that analyzes yard conditions and recommends plants with AR placement previews.
 <br /><br />
-[![ready-bed](https://img.shields.io/badge/ready--bed-GitHub-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bub655/ready-bed)
+[![FlitIp](https://img.shields.io/badge/ready--bed-GitHub-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jay-Thpr/FlipIt)
 <br />
-Multi-agent EMS handoff and routing system that turns live audio, video, and hospital data into pre-arrival summaries.
+Autonomous agents to sell, buy, and negotiate secondhand goods.
 
 </div>
