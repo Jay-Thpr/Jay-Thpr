@@ -3,7 +3,7 @@
 # Jay Thapar
 ### Activity Dashboard
 
-> spikes usually line up with project sprints and hackathons
+> Always trying to push more code :)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jay-Thpr&theme=github_dark" alt="GitHub Stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jay-Thpr&theme=github_dark" alt="GitHub Profile Details" />
