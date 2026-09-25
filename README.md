@@ -1,10 +1,10 @@
 # Hi, I'm Jay!
 
-Computer Science & Engineering @ UCLA
+<h3>Computer Science & Engineering @ UCLA</h3>
 
-<img src="assets/logos/microsoft.svg" alt="" height="18" align="absmiddle" />&nbsp;Incoming SWE @ Microsoft &nbsp;·&nbsp; <img src="assets/logos/sierra-ventures.png" alt="" height="18" align="absmiddle" />&nbsp;Previously SWE @ Sierra Ventures
+<h3><img src="assets/logos/microsoft.svg" alt="" height="22" align="absmiddle" />&nbsp;Incoming SWE @ Microsoft &nbsp;·&nbsp; <img src="assets/logos/sierra-ventures.png" alt="" height="22" align="absmiddle" />&nbsp;Previously SWE @ Sierra Ventures</h3>
 
-<img src="assets/logos/lahacks.svg" alt="" height="18" align="absmiddle" />&nbsp;Tech Director @ LA Hacks &nbsp;·&nbsp; <img src="assets/logos/nova.svg" alt="" height="18" align="absmiddle" />&nbsp;EVP @ Nova
+<h3><img src="assets/logos/lahacks.svg" alt="" height="22" align="absmiddle" />&nbsp;Tech Director @ LA Hacks &nbsp;·&nbsp; <img src="assets/logos/nova.svg" alt="" height="22" align="absmiddle" />&nbsp;EVP @ Nova</h3>
 
 Interested in AI, developer tools, and distributed systems.
 
