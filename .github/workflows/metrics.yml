@@ -22,7 +22,7 @@ jobs:
           user: Jay-Thpr
           filename: github-metrics.svg
           template: classic
-          base: header, activity, community, repositories
+          base: header
           config_timezone: America/Los_Angeles
           config_display: large
 
