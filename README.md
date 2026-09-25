@@ -2,12 +2,16 @@
 
 Computer Science & Engineering @ UCLA
 
-Incoming SWE @ Microsoft · Previously SWE @ Sierra Ventures
+<img src="assets/logos/microsoft.svg" alt="" height="18" align="absmiddle" />&nbsp;Incoming SWE @ Microsoft &nbsp;·&nbsp; <img src="assets/logos/sierra-ventures.png" alt="" height="18" align="absmiddle" />&nbsp;Previously SWE @ Sierra Ventures
+
+<img src="assets/logos/lahacks.svg" alt="" height="18" align="absmiddle" />&nbsp;Tech Director @ LA Hacks &nbsp;·&nbsp; <img src="assets/logos/nova.svg" alt="" height="18" align="absmiddle" />&nbsp;EVP @ Nova
+
+Interested in AI, developer tools, and distributed systems.
 
 <table width="100%">
   <tr>
     <td width="65%" valign="top">
-      <p><strong>Selected Work</strong></p>
+      <p><strong>Featured Projects</strong></p>
       <p>
         <strong><a href="https://github.com/Jay-Thpr/HackMIT">Faultline</a></strong> — Winner @ HackMIT<br>
         Distributed systems incident responder that tests possible causes instead of guessing.<br>
