@@ -1,4 +1,4 @@
-# Hi, I'm Jay 👋
+# Hi, I'm Jay!
 
 Computer Science & Engineering @ UCLA
 
